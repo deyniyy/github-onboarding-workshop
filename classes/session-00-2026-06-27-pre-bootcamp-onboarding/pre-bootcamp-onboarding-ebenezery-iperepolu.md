@@ -6,7 +6,6 @@
 - How to create a repository (repo).
 - Understanding how to fork an existing repository.
 
-
 **Lab / Hands-On Work**
 **How to Create a GitHub Account and Set Up a Profile**
 - Visited GitHub.com.
